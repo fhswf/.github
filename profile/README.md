@@ -1,6 +1,6 @@
 # Fachhochschule Südwestfalen – South Westphalia University of Applied Sciences
 
-Welcome to the GitHub organization of South Westphalia University of Applied Sciences!
+Welcome to the GitHub organization of [South Westphalia University of Applied Sciences](https://www.fh-swf.de)!
 In this organization, you will find 
 - repositories related to public research projects of our University,
 - repositories containing learning material for some courses. 
